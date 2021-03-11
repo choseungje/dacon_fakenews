@@ -12,10 +12,6 @@
 ~~~
 
 ~~~
-Link : https://dacon.io/competitions/official/235658/overview/description/
-~~~
-
-~~~
 적용 모델 : SKT-KoBert, KoELECTRA
 ~~~
 
@@ -25,4 +21,8 @@ Link : https://dacon.io/competitions/official/235658/overview/description/
 
 ~~~
 순위 : 192팀 중 32위, 본선 진출
+~~~
+
+~~~
+Link : https://dacon.io/competitions/official/235658/overview/description/
 ~~~
